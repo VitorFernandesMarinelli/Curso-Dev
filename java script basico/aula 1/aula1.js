@@ -1,4 +1,4 @@
-//leaning the first function, console.log()
+//learned the first function, console.log()
 
 console.log('Hello word');
 console.log(42);

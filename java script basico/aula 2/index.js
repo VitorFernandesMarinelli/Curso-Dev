@@ -1,5 +1,5 @@
-// leaning to make html work together JavaScript
+// learned to make html work together JavaScript
 console.log("Hello web page");
 
-// leaning alert
+// learned alert
 alert("Hello Word!");
