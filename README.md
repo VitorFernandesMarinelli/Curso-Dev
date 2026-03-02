@@ -26,7 +26,7 @@ This repository is intended to showcase my progress in **full stack development 
 ## 🚀 Module 2 - JavaScript Programming Logic (In Progress)
 
 - Currently studying fundamental programming logic and control structures.
-
+- 📌 **Class 1** – comparation and logic operators
 ---
 
 ### ✨ Goal
