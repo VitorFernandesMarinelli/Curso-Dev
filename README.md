@@ -27,6 +27,7 @@ This repository is intended to showcase my progress in **full stack development 
 
 - Currently studying fundamental programming logic and control structures.
 - 📌 **Class 1** – comparation and logic operators
+- 📌 **Class 2** – conditional (if and else)
 ---
 
 ### ✨ Goal
